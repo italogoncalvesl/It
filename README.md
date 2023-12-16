@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  ### Atualizações de meus projetos e estudos!  
+  <h2> Atualizações de meus projetos e estudos!  
   <img align="center" alt="Italo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Italo-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
